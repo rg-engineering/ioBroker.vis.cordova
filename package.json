@@ -49,6 +49,7 @@
         "iobroker.kodi": "*",
         "iobroker.mihome-vacuum": "*",
         "iobroker.rickshaw": "*",
+        "iobroker.sbfspot": "*",
         "iobroker.starline": "*",
         "iobroker.vis": "*",
         "iobroker.vis-bars": "*",
